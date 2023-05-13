@@ -1,5 +1,4 @@
     # HANGMAN
-    #### Video Demo:  https://youtu.be/AginGGZQ_xg
     #### Description:
     I chose the Hangman as it is a classic game that has been entertaining people for generations and I really enjoy playing it. I used Python to program this game, and it is designed as a class called "Hangman". The program starts by taking a list of words as input, and it randomly selects one of them as the word to be guessed.
 
